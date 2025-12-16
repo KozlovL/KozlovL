@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Kozlov Leonid 👋
 
-<!--
-**KozlovL/KozlovL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer focused on building scalable and efficient services with Python.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack & Interests
+*   **Languages:** Python, SQL
+*   **Backend:** FastAPI, Django, REST APIs, Async Programming
+*   **Data:** PostgreSQL, SQLAlchemy, Redis
+*   **Tools & Platforms:** Docker, Git, CI/CD, Linux
+*   **Currently Exploring:** System design, message brokers (Kafka/RabbitMQ), cloud platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Learning Path
+I'm systematically transitioning from academic studies to practical backend development by:
+*   Completing intensive courses (Stepik, Yandex Practicum).
+*   Building projects with real-world tools (Docker, CI/CD, RESTful APIs).
+*   Using documentation and AI as learning aids for complex problem-solving.
+
+---
+💡 **Open to:** Internships, collaboration on interesting backend projects, and connecting with other developers.
+
+📫 **How to reach me:** [Telegram](https://t.me/leonid_k_s)
